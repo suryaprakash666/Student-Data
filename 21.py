@@ -13,6 +13,7 @@ class Students:
 
 
 s1 = Students("surya", 21, 6)
+s2 =Students("satya",22,5)
 s1.personality()
 print(s1.grade)
 print(s1.name)
